@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/36697896/135423128-5c491baf-3633-4612-
 
 ### Download the project
 
-Download the project on your local machine.
+Download or clone the project on your local machine.
 Just do npm i inside the covid folder. This will install all
 the required dependencies.
 
